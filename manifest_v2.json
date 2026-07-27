@@ -19,15 +19,55 @@
   },
   "links": [
     {
+      "icon": "currency-cny",
       "title": "爱发电购买",
-      "url": "https://www.ifdian.net/item/8d4d0c7287b311f1b1425254001e7c00",
-      "icon": ""
+      "url": "https://www.ifdian.net/item/8d4d0c7287b311f1b1425254001e7c00"
     }
   ],
   "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/com.yxstu.score.release.1.0.0..rpk"
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.yxstu.score.release.1.0.0.rpk"
     }
   },
   "ext": {}
